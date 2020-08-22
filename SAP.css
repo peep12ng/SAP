@@ -1,0 +1,22 @@
+.main_Tab_Container{
+	display : flex;
+	align-items : center;
+	background-color : black;
+}
+
+.main_Tab_Item{
+	margin : 0px 15px 0px 15px;
+	display : inline-block;
+}
+
+.main_Tap_Menu{
+	color : white;
+}
+
+.main_Tap_Icon{
+	margin : 10px 250px 10px 250px;
+}
+
+body{
+	margin : 0;
+}
