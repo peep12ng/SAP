@@ -1,20 +1,30 @@
+.main_Tab_Item{
+	color : white;
+	margin : 0px 15px 0px 15px;
+	float : left;
+}
+
+.main_Tab_Div1{
+	margin : 0px 250px 0px 250px;
+}
+
+.main_Tab_Div2{
+	
+}
+
+.main_Tab_Div3{
+	margin : 0px 150px 0px 150px;
+}
+
+.main_Tab_Div3 img{
+	margin : 0px 10px 0px 10px;
+}
+
 .main_Tab_Container{
 	display : flex;
 	align-items : center;
+	height : 60px;
 	background-color : black;
-}
-
-.main_Tab_Item{
-	margin : 0px 15px 0px 15px;
-	display : inline-block;
-}
-
-.main_Tap_Menu{
-	color : white;
-}
-
-.main_Tap_Icon{
-	margin : 10px 250px 10px 250px;
 }
 
 body{
