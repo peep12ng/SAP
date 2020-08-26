@@ -1,7 +1,7 @@
 .main_Tab_Item{
 	color : white;
 	margin : 0px 15px 0px 15px;
-	float : left;
+	/*float : left;*/
 }
 
 .main_Tab_Div1{
@@ -9,11 +9,12 @@
 }
 
 .main_Tab_Div2{
-	
+	display : flex;
 }
 
 .main_Tab_Div3{
 	margin : 0px 150px 0px 150px;
+	display : flex;
 }
 
 .main_Tab_Div3 img{
@@ -25,6 +26,31 @@
 	align-items : center;
 	height : 60px;
 	background-color : black;
+}
+
+.test{
+	position : relative;
+	top : 0px;
+	left : 0px;
+}
+
+.testtext1{
+	position : absolute;
+	top : 50px;
+	left : 400px;
+	margin : 0px;
+	font-size : 3.5rem;
+	color : white;
+}
+
+.testtext2{
+	position : absolute;
+	top :200px;
+	left : 400px;
+	margin : 0px;
+	color : white;
+	font-size : 2rem;
+	font-weight : normal;
 }
 
 body{
